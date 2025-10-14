@@ -6,7 +6,7 @@
 
 description
 
-![Running Calculator]()
+![Running Calculator](https://github.com/ArtBlock404/portfolio/blob/main/images/Calc.png)
 
 * [Windows EXE]()
 * [MacOSX]()
