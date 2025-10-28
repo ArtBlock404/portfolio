@@ -8,6 +8,7 @@ This calculator features a structured graphical interface with clearly defined b
 
 ![Class Diagram](https://github.com/ArtBlock404/portfolio/blob/main/images/Calc.png)
 
+
 ![Running Calculator](https://github.com/ArtBlock404/portfolio/blob/main/images/Calcpng.png)
 
 * [Windows EXE](https://github.com/ArtBlock404/portfolio/blob/main/src/Calculator/windows-amd64.zip)
