@@ -109,6 +109,9 @@ void keyPressed() {
     dVal = "0.0";
     left = false;
     op = '+';
+  } } else if (keyCode == 46 || keyCode == 110) {
+    if (dVal.contains(".") == false) {
+        dVal += ".";
   } else if (keyCode == 109 || keyCode == 45) {
     dVal = "0.0";
     left = false;
