@@ -22,5 +22,5 @@ This calculator features a structured graphical interface with clearly defined b
 ![Running cars](https://github.com/ArtBlock404/portfolio/blob/main/images/cars.png)
 
 * [Windows EXE](https://github.com/ArtBlock404/portfolio/blob/main/src/MakingCars/windows-amd64.zip)
-* [MacOSX]([https://github.com/ArtBlock404/portfolio/blob/main/src/Calculator/macos-aarch64.zip](https://github.com/ArtBlock404/portfolio/blob/main/src/MakingCars/macos-aarch64.zip))
+* [MacOSX](https://github.com/ArtBlock404/portfolio/blob/main/src/MakingCars/macos-aarch64.zip)
 * [Source Code](https://github.com/ArtBlock404/portfolio/tree/main/src/MakingCars)
