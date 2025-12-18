@@ -14,3 +14,7 @@ This calculator features a structured graphical interface with clearly defined b
 * [Windows EXE](https://github.com/ArtBlock404/portfolio/blob/main/src/Calculator/windows-amd64.zip)
 * [MacOSX](https://github.com/ArtBlock404/portfolio/blob/main/src/Calculator/macos-aarch64.zip)
 * [Source Code](https://github.com/ArtBlock404/portfolio/tree/main/src/Calculator)
+
+  ### Making Cars (2025)
+
+  This project created multiple cars that drive across the screen either to the left or to the right. They reset after reaching the edge of the screen, driving in a random direction again. the cars also have randomized colors and speeds.
