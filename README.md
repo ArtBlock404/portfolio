@@ -48,7 +48,9 @@ This calculator features a structured graphical interface with clearly defined b
 ### Delarium (2025)
 
 This project is a fairy-tale inspired puzzle game, simmilar to other titles such as "The Legand Of Zelda" and "BABA IS YOU". It was created in a group of three people; Mazie Robinson, Angela Liu, and myself, Jonah White.
-The project has 9 levels each with unique puzzles o solve to procede to the next stage, consisting of varios elements like pushable rocks, buttons and doors, and hazards that end the game when moved into. all art in the ame is created by our team in a pixel art style, with a pink-purple colo scheme.
+The project has 9 levels each with unique puzzles o solve to procede to the next stage, consisting of varios elements like pushable rocks, buttons and doors, and hazards that end the game when moved into. all art in the ame is created by our team in a pixel art style, with a pink-purple colo scheme. nI have personly contributed to the art and code for classes such as the grid, pushable tiles, and the player class.
+full project at https://github.com/ArtBlock404/GroupProjectT4
+
 ![Class Diagram](https://github.com/ArtBlock404/portfolio/blob/main/src/Delarium/images/classdiagram.png)
 
 
