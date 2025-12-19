@@ -1,4 +1,6 @@
 # Jonah White's PORTFOLIO
+by Jonah White
+email: jonahlwhite@gmail.com
 
 ## projects for term 1
 
