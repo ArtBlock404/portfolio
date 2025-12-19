@@ -60,6 +60,6 @@ The project has 9 levels each with unique puzzles o solve to procede to the next
 
 ## Certification
 
-![Class Diagram](https://github.com/ArtBlock404/portfolio/blob/main/images/JONAH%20WHITE_Computer%20Programming%201_12162025.pdf)
+![Certification](https://github.com/ArtBlock404/portfolio/blob/main/images/Capture.PNG)
 
 
