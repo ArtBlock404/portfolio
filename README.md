@@ -45,19 +45,21 @@ This calculator features a structured graphical interface with clearly defined b
 
 ## projects for term 2
 
-### Calculator (2025)
+### Delarium (2025)
 
-This calculator features a structured graphical interface with clearly defined buttons for numbers and operations. The numeric buttons are presented in red tones, while operational functions such as addition, subtraction, multiplication, and division are shown in green, with consistent sizing and spacing for readability. A display area at the top of the interface presents user input and calculation results in white text on a dark background. The calculator supports standard arithmetic functions, including exponentiation, square root, percentage, and sign inversion. Button highlights on hover improve usability, and a dedicated clear function allows for resetting calculations.
-
-![Class Diagram](https://github.com/ArtBlock404/portfolio/blob/main/images/Calc.png)
+This project is a fairy-tale inspired puzzle game, simmilar to other titles such as "The Legand Of Zelda" and "BABA IS YOU". It was created in a group of three people; Mazie Robinson, Angela Liu, and myself, Jonah White.
+The project has 9 levels each with unique puzzles o solve to procede to the next stage, consisting of varios elements like pushable rocks, buttons and doors, and hazards that end the game when moved into. all art in the ame is created by our team in a pixel art style, with a pink-purple colo scheme.
+![Class Diagram](https://github.com/ArtBlock404/portfolio/blob/main/src/Delarium/images/classdiagram.png)
 
 
 ![Running delarium](https://github.com/ArtBlock404/portfolio/blob/main/src/Delarium/images/Game.png)
 
-![Running delarium2](https://github.com/ArtBlock404/portfolio/blob/main/src/Delarium/images/Game.png)
+![Running delarium2](https://github.com/ArtBlock404/portfolio/blob/main/images/Delarium.png)
 
-* [Windows EXE](https://github.com/ArtBlock404/portfolio/blob/main/src/Calculator/windows-amd64.zip)
-* [MacOSX](https://github.com/ArtBlock404/portfolio/blob/main/src/Calculator/macos-aarch64.zip)
 * [Source Code](https://github.com/ArtBlock404/portfolio/tree/main/src/Delarium/src/PuzzleGame)
+
+## Certification
+
+![Class Diagram](https://github.com/ArtBlock404/portfolio/blob/main/images/JONAH%20WHITE_Computer%20Programming%201_12162025.pdf)
 
 
